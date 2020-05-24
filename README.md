@@ -1,6 +1,6 @@
 # llSPS-INT-99-AI-Powered-News-Search-App-Level-1-
 AI Powered News Search App (Level-1)
-AUTHOR: OISHEE MAZUMDER
+AUTHOR: konduri sai pavani
 
 OVERVIEW
 
@@ -28,7 +28,7 @@ The app sends user requests to Watson Discovery News.
 The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
 The web app provides the user with the top trending news articles for the specified query, along with each article’s sentiment analysis.
 The Watson Discovery Service responds to Slack search requests.
-flowchart
+
 
 
 
