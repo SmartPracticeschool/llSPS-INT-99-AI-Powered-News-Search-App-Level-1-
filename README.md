@@ -28,7 +28,7 @@ In this project we’ll get to know the basics and build our own news mining web
 **RESULTS:**    
 Node red-UI:[click here](https://node-rednewssearch.eu-gb.mybluemix.net/ui/#!/0?)  
 Project demonstration:[click here](https://youtu.be/qNAypHHbyac)  
-Slack output:  
+Node red & slack output:  
 ![alt text](https://github.com/SmartPracticeschool/llSPS-INT-99-AI-Powered-News-Search-App-Level-1-/blob/master/ui%20output1.png)
 ![alt text](https://github.com/SmartPracticeschool/llSPS-INT-99-AI-Powered-News-Search-App-Level-1-/blob/master/ui%20output1.png)
 ![alt text](https://github.com/SmartPracticeschool/llSPS-INT-99-AI-Powered-News-Search-App-Level-1-/blob/master/sentiment%20analysis%20output.png)
